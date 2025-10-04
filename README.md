@@ -28,5 +28,5 @@ This GitHub will showcase my projects, exercises and case studies as I progress:
 - [Capstone Project] (link-to-repo) - coming soon!
 
 ## 📫 Connect With Me
-LinkedIn:
-Email: appdevpmd@gmail.com 
+- LinkedIn: 
+- Email: appdevpmd@gmail.com 
